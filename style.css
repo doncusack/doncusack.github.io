@@ -1,0 +1,91 @@
+* {
+    margin: 0px padding: 0px;
+}
+
+body {
+    font-family: verdana, sans-serif;
+    /*background-color:darkblue;*/
+    font-size: 12px;
+    /*background-image: url(airplanecourseair.jpg);
+    background-size:cover;
+    background-repeat:repeat; */
+    /*background: linear-gradient(to right,red, yellow);*/
+    background: linear-gradient(to left, gray, white);
+
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.job {
+    font-style: italic;
+    color: darkred;
+}
+
+.display {
+    display: inline-block;
+    margin-right: 12px;
+    font-size: 10px;
+    font-weight: 100
+}
+
+.gpa {
+    color: blue;
+    font-size: 1.0em;
+    font-style: oblique;
+    font-weight: bolder;
+
+}
+
+.bold {
+    font-style: italic;
+    color: #34A809;
+    font-weight: bold;
+}
+
+.add {
+    padding-left: 5cm;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #710F91;
+}
+
+.ola {
+    list-style-type: lower-alpha;
+}
+
+header {
+
+    /* background-color:aquamarine;*/
+    width: 100%;
+    height: 200px;
+    border: 5px solid #B6530C;
+    padding: 20px;
+    margin: 5px;
+
+}
+
+main {
+    margin-top: -20px;
+}
+
+header {
+
+    width: 90%;
+}
+
+footer {
+    background-color: cadetblue;
+}
+
+main {
+
+    padding: 10px;
+}
